@@ -1,3 +1,15 @@
+
+
+- Glossay of all the terms eg. TCRs, governance
+- Description and breakdown of the different aspects in how an organisation can be decentralised
+- Breakdown of a decentralised p2p computing system
+- Define and frame the issues involved with the governance of decentralised p2p daos.
+- Why are organisations becoming decentralised?
+- Why is the governance of Ethereum important?
+- Overview of the different projects out there
+- Diagram of the different projects out there
+- Analysis?
+
 # DAO Goverance Frameworks
 
 **Aragon Network**

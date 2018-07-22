@@ -42,6 +42,36 @@ https://govblocks.io/
 Modular governance
 https://www.harbourproject.io/
 
+**Network State**
+https://www.dropbox.com/s/ramz8scma26mk4y/Network_State_Whitepaper%20%200.2.5.pdf?dl=0
+https://github.com/fractastical/distributed-governance
+
+**Ultimate Unicorn Maker Machine**
+Meritocratic reputation
+https://github.com/UummProject/uumm-prototype/blob/master/support/Broken%20meritocracy.md
+
+It's a decentralized governance tool for collaborative projects based on the assumption that the percentage of user ownership of a project is equal to the percentage of user contribution to the project.
+
+**Kleros**
+Digitally human tribunal system
+https://kleros.io/
+
+**xDac**
+decentralised companies
+https://www.xdac.co/
+
+http://www.swae.io/
+http://web.enlte.com/enlteweb/whitepaper_v_0.2.pdf
+http://dl.auctus.org/Auctus_Whitepaper.pdf
+https://daox.org/
+http://tcr.dappdev.org/
+https://united.vote/
+https://www.mintflint.com/
+https://consensus.ai/
+https://icobench.com/ico/databrokerdao
+markedao
+swarmcity
+dash
 
 # Collection of different types of DAOs
 
@@ -50,3 +80,24 @@ https://www.harbourproject.io/
 - https://tezos.com/
 - DASH
 - https://decred.org/#mission community decision making baked into the chain
+- https://giveth.io/
+- Crypto fund management stuff
+- https://wavesplatform.com/
+- https://district0x.io/
+- https://mito.ipci.io/ management of enviromental projects
+- exchanges, marketplaces
+- ipfs
+
+# Fiat-world governance projects
+
+
+**Civic Ledger**
+Founded in late September 2016, Civic Ledger is an Australian civic-focused blockchain company with a purpose to help governments globally to solve complex business processes by digitalising operations and services using smart contract and blockchain technologies where advantaged over traditional legacy systems.
+http://www.civicledger.com/
+
+**Horizon State**
+Voting
+https://www.horizonstate.com/
+
+
+https://www.citizenlab.co/blog/

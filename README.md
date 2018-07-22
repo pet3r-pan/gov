@@ -1,4 +1,4 @@
-# DAO Frameworks
+# DAO Goverance Frameworks
 
 **Aragon Network**
 
@@ -17,6 +17,12 @@ https://github.com/DemocracyEarth/paper
 liquid democ voting
 https://www.democracy.earth/
 
+**DAOstack**
+
+Governance OS
+https://daostack.io/wp/DAOstack-White-Paper-en.pdf
+https://daostack.io/
+
 **Colony.io**
 
 https://colony.io/whitepaper.pdf
@@ -24,9 +30,17 @@ Jira-board for ecosystems, derive reputation from work done.
 
 **Ulex**
 
-Digital Jurisdiction
+Digital Jurisdiction, human court jurisdiction framework
 https://github.com/proftomwbell/Ulex
 
+**Govblocks**
+Curation driven governance protocol used to govern blockchains - mix of onchain offchain elements
+https://docs.google.com/document/d/1A7nJ6D9dfpQ71Yym_G7KyXVvrRXeBUrdyjQ5xiVdGGw/edit
+https://govblocks.io/
+
+**Harbour Project**
+Modular governance
+https://www.harbourproject.io/
 
 
 # Collection of different types of DAOs

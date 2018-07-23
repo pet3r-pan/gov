@@ -1,6 +1,6 @@
 
-
-- Glossay of all the terms eg. TCRs, governance
+Fundamentals of DAO governance
+- Glossay of all the terms eg. TCRs, governance Curation Market, Token-Curated Registries, Prediction Markets/Oracles
 - Description and breakdown of the different aspects in how an organisation can be decentralised
 - Breakdown of a decentralised p2p computing system
 - Define and frame the issues involved with the governance of decentralised p2p daos.
@@ -8,6 +8,8 @@
 - Why is the governance of Ethereum important?
 - Overview of the different projects out there
 - Diagram of the different projects out there
+- Curation Market, Token-Curated Registries, Prediction Markets/Oracles
+
 - Analysis?
 
 # DAO Goverance Frameworks
@@ -72,18 +74,28 @@ https://kleros.io/
 decentralised companies
 https://www.xdac.co/
 
+**Swae**
+Organisational governance framework
 http://www.swae.io/
-http://web.enlte.com/enlteweb/whitepaper_v_0.2.pdf
-http://dl.auctus.org/Auctus_Whitepaper.pdf
+https://docsend.com/view/x7j2rma
+Swae is a software platform providing tools to help groups make collective decisions and govern together without reliance on managers and centralised decision-makers. Using Swae's software, individuals within groups can develop proposals, formulate strategies, upvote/downvote/modify ideas, and allocate budgets/resources together. Swae software helps distribute authority, replacing the function of managers in companies and transforming the role of elected officials in communities. Swae’s software leverages AI and Machine Learning to support individuals in proposal development, concept expansion and suggestion, data collection, and tradeoff analysis. The first tool of Swae’s platform is Swae, an AI-supported proposal development tool, allowing individuals living in municipalities, customers of or employees in companies to efficiently develop and share high-quality proposals for improving existing products or services or bringing new one’s to life. 
+
+**DAOx**
+Platform for launching ICO where tokens can be used to vote on the organisation's proposals - not digitally enforced. 
+https://daox.org/daox-whitepaper-eng.pdf
 https://daox.org/
-http://tcr.dappdev.org/
-https://united.vote/
-https://www.mintflint.com/
+
+
 https://consensus.ai/
-https://icobench.com/ico/databrokerdao
-markedao
-swarmcity
-dash
+MarkDao, swarmcity, dash
+
+**Trusttoken**
+Digital governance and tokenization of real world assets
+https://www.trusttoken.com/
+
+**Mattereum**
+Smart contracts with natural language, settled and arbitrated by indepenedent humans
+https://www.mattereum.com/services/ 
 
 # Collection of different types of DAOs
 
@@ -100,8 +112,10 @@ dash
 - exchanges, marketplaces
 - ipfs
 
-# Fiat-world governance projects
+http://tcr.dappdev.org/
 
+
+# Fiat-world governance projects
 
 **Civic Ledger**
 Founded in late September 2016, Civic Ledger is an Australian civic-focused blockchain company with a purpose to help governments globally to solve complex business processes by digitalising operations and services using smart contract and blockchain technologies where advantaged over traditional legacy systems.
@@ -111,5 +125,14 @@ http://www.civicledger.com/
 Voting
 https://www.horizonstate.com/
 
-
 https://www.citizenlab.co/blog/
+
+**United Vote**
+Liquid democ
+https://united.vote/
+
+## Oracles
+https://www.xyo.network/
+https://chainthis.com/
+http://www.oraclize.it/
+https://witnet.io/

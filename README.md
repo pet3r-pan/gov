@@ -85,6 +85,9 @@ Platform for launching ICO where tokens can be used to vote on the organisation'
 https://daox.org/daox-whitepaper-eng.pdf
 https://daox.org/
 
+**Colendi**
+https://www.colendi.com/
+
 
 https://consensus.ai/
 MarkDao, swarmcity, dash

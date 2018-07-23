@@ -114,7 +114,7 @@ https://www.mattereum.com/services/
 
 http://tcr.dappdev.org/
 
-
+https://eprint.iacr.org/2013/622.pdf
 # Fiat-world governance projects
 
 **Civic Ledger**

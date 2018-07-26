@@ -66,6 +66,10 @@ https://github.com/UummProject/uumm-prototype/blob/master/support/Broken%20merit
 
 It's a decentralized governance tool for collaborative projects based on the assumption that the percentage of user ownership of a project is equal to the percentage of user contribution to the project.
 
+**Wetonomy**
+DAO framework
+https://comradecoop.com/blog/
+
 **Kleros**
 Digitally human tribunal system
 https://kleros.io/
@@ -144,3 +148,7 @@ https://www.xyo.network/
 https://chainthis.com/
 http://www.oraclize.it/
 https://witnet.io/
+
+other
+
+APM https://blog.aragon.one/deploying-and-distributing-aragon-core-11e70cbc9b50

@@ -114,6 +114,7 @@ https://www.mattereum.com/services/
 - https://mito.ipci.io/ management of enviromental projects
 - exchanges, marketplaces
 - ipfs
+- Zencash dao https://blog.zencash.com/dao-prototype/
 
 http://tcr.dappdev.org/
 
@@ -133,6 +134,10 @@ https://www.citizenlab.co/blog/
 **United Vote**
 Liquid democ
 https://united.vote/
+
+## Prediction markets (signalling mechanism + a type of dao themselves)
+- Augur: https://www.augur.net/
+- Gnosis: https://gnosis.pm/
 
 ## Oracles
 https://www.xyo.network/

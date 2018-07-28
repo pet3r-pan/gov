@@ -100,6 +100,9 @@ MarkDao, swarmcity, dash
 Digital governance and tokenization of real world assets
 https://www.trusttoken.com/
 
+**Governance framework (any organisation)**
+https://sociocracy30.org/
+
 **Mattereum**
 Smart contracts with natural language, settled and arbitrated by indepenedent humans
 https://www.mattereum.com/services/ 
@@ -123,6 +126,7 @@ https://www.mattereum.com/services/
 http://tcr.dappdev.org/
 
 https://eprint.iacr.org/2013/622.pdf
+
 # Fiat-world governance projects
 
 **Civic Ledger**

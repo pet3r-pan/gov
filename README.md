@@ -78,6 +78,10 @@ https://kleros.io/
 decentralised companies
 https://www.xdac.co/
 
+**Thetta**
+DAO framework
+https://web.thetta.io/
+
 **Swae**
 Organisational governance framework
 http://www.swae.io/
